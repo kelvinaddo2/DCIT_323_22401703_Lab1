@@ -1,1 +1,15 @@
 # DCIT_323_22401703_Lab1
+ASSIGNMENT 1
+
+Creating and Managing a GitHub Repository
+
+Name: ADDO EBENEZER KELVIN
+
+Student ID: 22401703
+
+Course Code: DCIT323
+
+
+
+This is my first assignment for DCIT323. 
+The assignment introduces me to the basics of GitHub and version control. It is aimed at helping me understand how to create, manage and update a GitHub repository. It also gives me practical experience in using Git commands to manage files and upload changes to GitHub.
